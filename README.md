@@ -67,7 +67,9 @@ if ret:
 
 cap.release()
 ```
-<https://github.com/Vasanth-AIDS24/EXP-2-Record-Image-Acquisition-using-Web-Camera/blob/main/README.md>
+
+<img width="612" height="487" alt="image" src="https://github.com/user-attachments/assets/59e2e464-f6a9-4bca-b13d-8cdf60b5c463" />
+
 ### ii) Display the video
 Live webcam video is displayed
 ```
